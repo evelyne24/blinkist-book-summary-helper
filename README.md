@@ -1,2 +1,3 @@
-# blinkist-book-summary-scraper
-Blinkist Book Summary Scraper
+# Blinkist Book Summary Helper
+
+Speed-up printing your book summaries as pdfs :)

@@ -1,3 +1,4 @@
+
 # Logs
 logs
 *.log
@@ -59,3 +60,16 @@ typings/
 
 # next.js build output
 .next
+
+# System and generated files
+.idea
+.DS_Store
+.sass-cache
+.vscode/
+
+# Things not to commit
+books/
+config/
+blinkist-book-summary-scraper.paw
+*.paw
+package-lock.json

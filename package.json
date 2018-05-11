@@ -1,0 +1,26 @@
+{
+  "name": "blinkist-book-summary-helper",
+  "version": "1.0.0",
+  "description": "Blinkist Book Summary Helper",
+  "author": "Evelina Vrabie",
+  "license": "MIT",
+  "homepage": "https://github.com/evelyne24/blinkist-book-summary-helper",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evelyne24/blinkist-book-summary-helper"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "change-case": "^3.0.2",
+    "cheerio": "^1.0.0-rc.2",
+    "config": "^1.30.0",
+    "fs-extra": "^6.0.1",
+    "markdown-pdf": "^8.1.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "turndown": "^4.0.2"
+  }
+}
